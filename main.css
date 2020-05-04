@@ -65,7 +65,7 @@ h3 {
 }
 
 #word-area {
-    width: 50%;
+    width: 100%;
     padding-right: 1rem;
     /*    float: left;*/
 }
@@ -80,7 +80,11 @@ a:visited {
     font-family: 'open_sansbold';
     text-decoration: none;
     font-weight: 700;
-    color: dodgerblue
+    color: #2761a4;
+}
+
+#images {
+    text-align: center;
 }
 
 li {
@@ -88,7 +92,6 @@ li {
     list-style: circle;
 }
 
-#images img {
-    max-width: 20rem;
-
+hr {
+    margin: 3rem 0;
 }
