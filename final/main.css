@@ -88,14 +88,15 @@ a:visited {
     color: #d52d30;
 }
 
-#images {
+images {
     text-align: center;
 }
 
-li {
+#word-area ul {
     margin: 0;
     list-style: circle;
 }
+
 
 hr {
     margin: 3rem 0;
